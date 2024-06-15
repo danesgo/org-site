@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/es/search/</loc>
+    <loc>https://danesgo.github.io/org-site/es/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/search/"
+                href="https://danesgo.github.io/org-site/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/search/"
+                href="https://danesgo.github.io/org-site/es/search/"
                 />
   </url><url>
-    <loc>/es/categories/</loc>
+    <loc>https://danesgo.github.io/org-site/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://danesgo.github.io/org-site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://danesgo.github.io/org-site/es/categories/"
                 />
   </url><url>
-    <loc>/es/example-page/</loc>
+    <loc>https://danesgo.github.io/org-site/es/example-page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/example-page/"
+                href="https://danesgo.github.io/org-site/example-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/example-page/"
+                href="https://danesgo.github.io/org-site/es/example-page/"
                 />
   </url><url>
-    <loc>/es/</loc>
+    <loc>https://danesgo.github.io/org-site/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://danesgo.github.io/org-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://danesgo.github.io/org-site/es/"
                 />
   </url><url>
-    <loc>/es/tags/</loc>
+    <loc>https://danesgo.github.io/org-site/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://danesgo.github.io/org-site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://danesgo.github.io/org-site/es/tags/"
                 />
   </url>
 </urlset>

@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oxfam Demo on Site Title</title>
-    <link>/</link>
+    <link>https://danesgo.github.io/org-site/</link>
     <description>Recent content in Oxfam Demo on Site Title</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright &amp;copy; {{&lt; current_year &gt;}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io).</copyright>
     <lastBuildDate>Tue, 01 Aug 2023 00:00:00 -0700</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danesgo.github.io/org-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Hugo?</title>
-      <link>/faq/what-is-hugo/</link>
+      <link>https://danesgo.github.io/org-site/faq/what-is-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/faq/what-is-hugo/</guid>
+      <guid>https://danesgo.github.io/org-site/faq/what-is-hugo/</guid>
       <description>Hugo is a static site generator written in Go. It&amp;rsquo;s fast and flexible.</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>/blog/hello-world/</link>
+      <link>https://danesgo.github.io/org-site/blog/hello-world/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
-      <guid>/blog/hello-world/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/hello-world/</guid>
       <description>Welcome to our first blog post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa.&#xA;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 -0700</pubDate>
-      <guid>/blog/old-post/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an older post</title>
-      <link>/blog/old-post-2/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-2/</link>
       <pubDate>Sun, 14 Mar 2021 00:00:00 -0800</pubDate>
-      <guid>/blog/old-post-2/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-3/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-3/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 -0800</pubDate>
-      <guid>/blog/old-post-3/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-4/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-4/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
-      <guid>/blog/old-post-4/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-5/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-5/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 -0700</pubDate>
-      <guid>/blog/old-post-5/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-6/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-6/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 -0700</pubDate>
-      <guid>/blog/old-post-6/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-7/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-7/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 -0700</pubDate>
-      <guid>/blog/old-post-7/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-7/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-8/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-8/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 -0700</pubDate>
-      <guid>/blog/old-post-8/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-8/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-9/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-9/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 -0700</pubDate>
-      <guid>/blog/old-post-9/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-9/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>This is an old post</title>
-      <link>/blog/old-post-10/</link>
+      <link>https://danesgo.github.io/org-site/blog/old-post-10/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 -0700</pubDate>
-      <guid>/blog/old-post-10/</guid>
+      <guid>https://danesgo.github.io/org-site/blog/old-post-10/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>An example FAQ with a long title to test wrapping</title>
-      <link>/faq/long-faq/</link>
+      <link>https://danesgo.github.io/org-site/faq/long-faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/faq/long-faq/</guid>
+      <guid>https://danesgo.github.io/org-site/faq/long-faq/</guid>
       <description>Not rapping. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
     <item>
       <title>Demo Elements Page</title>
-      <link>/demo-page/</link>
+      <link>https://danesgo.github.io/org-site/demo-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/demo-page/</guid>
+      <guid>https://danesgo.github.io/org-site/demo-page/</guid>
       <description>This is a demo page, designed to show you the various elements of the theme and how they sit together.&#xA;It has a custom social image, which can be set in the frontmatter.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</description>
     </item>
     <item>
       <title>Example Page</title>
-      <link>/example-page/</link>
+      <link>https://danesgo.github.io/org-site/example-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/example-page/</guid>
+      <guid>https://danesgo.github.io/org-site/example-page/</guid>
       <description>This is used for the description. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a. Intro Details Conclusion Intro Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</description>
     </item>
     <item>
       <title>Search</title>
-      <link>/search/</link>
+      <link>https://danesgo.github.io/org-site/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/search/</guid>
+      <guid>https://danesgo.github.io/org-site/search/</guid>
       <description> </description>
     </item>
   </channel>

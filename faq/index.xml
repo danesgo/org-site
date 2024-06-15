@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQs on Site Title</title>
-    <link>/faq/</link>
+    <link>https://danesgo.github.io/org-site/faq/</link>
     <description>Recent content in FAQs on Site Title</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright &amp;copy; {{&lt; current_year &gt;}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io).</copyright>
-    <atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danesgo.github.io/org-site/faq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Hugo?</title>
-      <link>/faq/what-is-hugo/</link>
+      <link>https://danesgo.github.io/org-site/faq/what-is-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/faq/what-is-hugo/</guid>
+      <guid>https://danesgo.github.io/org-site/faq/what-is-hugo/</guid>
       <description>Hugo is a static site generator written in Go. It&amp;rsquo;s fast and flexible.</description>
     </item>
     <item>
       <title>An example FAQ with a long title to test wrapping</title>
-      <link>/faq/long-faq/</link>
+      <link>https://danesgo.github.io/org-site/faq/long-faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/faq/long-faq/</guid>
+      <guid>https://danesgo.github.io/org-site/faq/long-faq/</guid>
       <description>Not rapping. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&#xA;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor.</description>
     </item>
   </channel>

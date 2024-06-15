@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Site Title</title>
-    <link>/categories/</link>
+    <link>https://danesgo.github.io/org-site/categories/</link>
     <description>Recent content in Categories on Site Title</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright &amp;copy; {{&lt; current_year &gt;}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io).</copyright>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danesgo.github.io/org-site/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

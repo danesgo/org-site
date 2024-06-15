@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/faq/what-is-hugo/</loc>
+    <loc>https://danesgo.github.io/org-site/faq/what-is-hugo/</loc>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/blog/hello-world/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/hello-world/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://danesgo.github.io/org-site/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://danesgo.github.io/org-site/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://danesgo.github.io/org-site/"
                 />
   </url><url>
-    <loc>/blog/old-post/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post/</loc>
     <lastmod>2021-04-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-2/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-2/</loc>
     <lastmod>2021-03-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-3/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-3/</loc>
     <lastmod>2021-02-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-4/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-4/</loc>
     <lastmod>2021-01-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-5/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-5/</loc>
     <lastmod>2020-09-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-6/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-6/</loc>
     <lastmod>2020-08-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-7/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-7/</loc>
     <lastmod>2020-07-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-8/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-8/</loc>
     <lastmod>2020-06-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-9/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-9/</loc>
     <lastmod>2020-05-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/blog/old-post-10/</loc>
+    <loc>https://danesgo.github.io/org-site/blog/old-post-10/</loc>
     <lastmod>2020-04-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/faq/long-faq/</loc>
+    <loc>https://danesgo.github.io/org-site/faq/long-faq/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://danesgo.github.io/org-site/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://danesgo.github.io/org-site/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://danesgo.github.io/org-site/categories/"
                 />
   </url><url>
-    <loc>/demo-page/</loc>
+    <loc>https://danesgo.github.io/org-site/demo-page/</loc>
   </url><url>
-    <loc>/example-page/</loc>
+    <loc>https://danesgo.github.io/org-site/example-page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/example-page/"
+                href="https://danesgo.github.io/org-site/es/example-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/example-page/"
+                href="https://danesgo.github.io/org-site/example-page/"
                 />
   </url><url>
-    <loc>/faq/</loc>
+    <loc>https://danesgo.github.io/org-site/faq/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://danesgo.github.io/org-site/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/search/"
+                href="https://danesgo.github.io/org-site/es/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/search/"
+                href="https://danesgo.github.io/org-site/search/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://danesgo.github.io/org-site/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://danesgo.github.io/org-site/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://danesgo.github.io/org-site/tags/"
                 />
   </url>
 </urlset>
