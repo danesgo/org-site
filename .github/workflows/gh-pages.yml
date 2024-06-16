@@ -30,6 +30,9 @@ jobs:
       - name: Build the Hugo site
         run: npm run build  # This will run "hugo --theme=dot-org-hugo-theme"
 
+      - name: Verify build output
+        run: ls -R public
+        
       - name: Verify CSS files are present
         run: ls -l public/css
 
