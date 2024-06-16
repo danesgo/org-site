@@ -30,6 +30,9 @@ jobs:
       - name: Build the Hugo site
         run: npm run build  # This will run "hugo --theme=dot-org-hugo-theme"
 
+      - name: Verify CSS files are present
+        run: ls -l public/css
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
